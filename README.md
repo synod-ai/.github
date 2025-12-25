@@ -1,5 +1,5 @@
 # 🛸 Synod AI
-**Collective Intelligence for UAV & Robotics Engineering**
+**Collective Intelligence for shared meeting reporting and summarization**
 
 Synod AI is a high-performance, multi-agent ecosystem designed to transform technical noise into engineering intelligence. By synthesizing live audio, telemetry, and manual notes, we provide UAV teams with a real-time, unified "Source of Truth."
 
