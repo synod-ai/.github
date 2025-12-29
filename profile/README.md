@@ -37,14 +37,4 @@ Synod AI uses a **Polyglot Microservices** approach. We leverage **Rust** for mi
 | **Docker / K8s** | Microservice Isolation | Scalability |
 
 ---
-
-## 🛡️ User Permissions & Workflow
-
-Synod AI is built around a tiered access model to maintain data integrity during sensitive flight operations:
-
-* **Level 3 (Admin):** Full control over meeting rooms, recording status, and final report distribution.
-* **Level 2 (Editor):** Capability to draft and **"Push"** notes to the AI, contributing to the live-evolving report.
-* **Level 1 (Viewer):** Read-only access to the shared "Truth Feed" and finalized intelligence reports.
-
----
 © 2025 Synod AI Team. All Rights Reserved.
