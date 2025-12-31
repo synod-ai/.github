@@ -99,7 +99,8 @@ We welcome contributions! Please see the [main README](https://github.com/your-o
 
 ## 📝 License
 
-TII (c)
+This project is licensed under a [Proprietary License](../LICENSE) owned by Technology Innovation Institute (TII). See the [LICENSE](../LICENSE) file for details.
+
 
 ---
 
