@@ -99,7 +99,7 @@ We welcome contributions! Please see the [main README](https://github.com/your-o
 
 ## 📝 License
 
-[Add your license here]
+TII (c)
 
 ---
 
