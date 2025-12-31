@@ -1,0 +1,54 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2024 Technology Innovation Institute (TII)
+All Rights Reserved
+
+NOTICE: This software and associated documentation files (the "Software") are the
+proprietary and confidential property of Technology Innovation Institute (TII).
+The Software is protected by copyright laws and international copyright treaties,
+as well as other intellectual property laws and treaties.
+
+OWNERSHIP
+---------
+All rights, title, and interest in and to the Software, including all intellectual
+property rights therein, are and will remain the exclusive property of Technology
+Innovation Institute (TII).
+
+DEVELOPMENT RIGHTS
+------------------
+The developer retains the right to develop, modify, and maintain the Software for
+internal use and development purposes, subject to the restrictions set forth below.
+
+RESTRICTIONS
+------------
+1. The Software may not be copied, modified, distributed, or used for any purpose
+   other than internal development without the express written permission of TII.
+
+2. The Software may not be reverse engineered, disassembled, or decompiled.
+
+3. The Software may not be used to create derivative works for commercial purposes
+   without authorization.
+
+4. The Software may not be sublicensed, sold, or otherwise transferred to any third
+   party without the prior written consent of TII.
+
+5. Any modifications or improvements to the Software shall become the property of TII.
+
+NO WARRANTY
+-----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL TII BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+CONTACT
+-------
+For licensing inquiries, please contact:
+Technology Innovation Institute (TII)
+[erwin.lejeune@tii.ae]
+
+This license applies to all repositories under the synod-ai organization and all
+associated submodules and components.
+
