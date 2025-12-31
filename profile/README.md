@@ -46,8 +46,7 @@ git clone --recurse-submodules <repository-url>
 cd synod
 
 # Set up environment variables
-cp synod-backend/.env.example synod-backend/.env
-cp synod-agent/.env.example synod-agent/.env
+cp cp .env.example .env
 # Edit .env files with your configuration
 
 # Start all services
