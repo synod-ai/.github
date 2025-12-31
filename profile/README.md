@@ -42,7 +42,7 @@ Synod consists of three main components:
 
 ```bash
 # Clone the repository
-git clone --recurse-submodules <repository-url>
+git clone --recurse-submodules git@github.com:synod-ai/.github.git
 cd synod
 
 # Set up environment variables
